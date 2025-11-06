@@ -1,7 +1,8 @@
 +++
 date = '2025-11-06T13:45:31+08:00'
 draft = false
-title = 'hello'
+title = 'Hello'
 +++
 
-## hello
+## 這是我的第一篇文章,我的用戶名 “jfzok21”.
+### 我會在這裡放上我的學習筆記.
